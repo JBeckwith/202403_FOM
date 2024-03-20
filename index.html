@@ -1,0 +1,463 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title> FOM, 2024/03/25</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                <!--- 15 Minute Talk, 5 Minutes for Qs -->
+				<section>
+					<h3 style="margin-bottom: 1em; margin-top: 1em">
+						<b>RASP: Optimal single fluorescent puncta detection in complex cellular backgrounds </b>
+					</h3>
+					<h3>Joseph S. Beckwith $\vert$ jsb92@cam.ac.uk</h3>
+                    <h3 style="font-size:28px">Yusuf Hamied Department of Chemistry, University of Cambridge</h3>
+                    					<h3 style="margin-bottom: 1em; font-size:28px">2024/03/25, Focus on Microscopy, Genoa</h3>
+
+                    <h3 style="font-size:25px; text-align: left" align="center">
+                        Fu, B.; [...] <b>Beckwith, J. S.;$^{*}$</b> Lee, S. F.$^{*}$ <i style="font-style: italic !important">bioRxiv</i> 2023/12/19, p 2023.12.18.572148., https://doi.org/10.1101/2023.12.18.572148.
+                        
+                    </h3>
+                    <div class="column" style="float: middle; width:  100%;">
+							<img src="Logos/Two_Logos.svg" style="height: 125px">
+                    </div>
+				</section>
+                
+                
+                <section>
+                <section data-auto-animate>
+						<h3>Why do we want lots of data from biological systems?</h3>	
+					</section>
+
+
+                <section data-auto-animate>
+						<h3>Why do we want lots of data from biological systems?</h3>	
+                        
+                        <div class="row">
+						<div class="column" style="float: middle; width:  100%;">
+                        <img src="fig/intro/Introduction_TimeandThroughput_-1.svg" style="height: 650px;">
+						</div>
+					</div>
+                    </section>
+                    
+                        <section>
+						<h3>Why do we want lots of data from biological systems?</h3>	
+                        
+                        <div class="row">
+						<div class="column" style="float: middle; width:  100%;">
+                        <img src="fig/intro/Introduction_TimeandThroughput.svg" style="height: 650px;">
+						</div>
+					</div>
+                    </section>
+
+                </section>
+               
+                    
+                <section><!--- RASP > </!--->
+
+                    <section data-auto-animate>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-7.svg" style="height: 600px">
+					</section>
+
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-6.svg" style="height: 600px">
+					</section>
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-5.svg" style="height: 600px">
+					</section>
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-4.svg" style="height: 600px">
+					</section>
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-3.svg" style="height: 600px">
+					</section>
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-2.svg" style="height: 600px">
+					</section>
+                    <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1_-1.svg" style="height: 600px">
+					</section>
+                     <section>
+						<h3>How do we analyse images of biological systems?</h3>	
+                        <img src="fig/RASP/Figure_1.svg" style="height: 600px">
+					</section>
+                    
+                                        <section>
+						<h3>What should distinguish junk from gold?</h3>	
+                        <img src="fig/RASP/Parthasarathy_-2.svg" style="height: 550px">
+                                                  						<div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px"><p>Figure (and inspiration!) from  Parthasarathy, R. <i>Nat. Meth.</i> <b>9</b>, 724–726 (2012).</p></h3></div>
+
+                    					</section>
+
+                                        <section>
+						<h3>What should distinguish junk from gold?</h3>	
+                        <img src="fig/RASP/Parthasarathy_-1.svg" style="height: 550px">
+                                                  						<div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px"><p>Figure (and inspiration!) from  Parthasarathy, R. <i>Nat. Meth.</i> <b>9</b>, 724–726 (2012).</p></h3></div>
+					</section>
+
+                    
+                    <section>
+						<h3>What should distinguish junk from gold?</h3>	
+                        <img src="fig/RASP/Parthasarathy.svg" style="height: 550px">
+                                                  						<div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px"><p>Figure (and inspiration!) from  Parthasarathy, R. <i>Nat. Meth.</i> <b>9</b>, 724–726 (2012).</p></h3></div>
+
+					</section>
+
+                    <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-8.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                     <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-7.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>     
+                    
+                    <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-6.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                    <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-5.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                    <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-4.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                    <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-3.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                     <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-2.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent "><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                     <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2_-1.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                     <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px; color: transparent"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+
+					</section>
+                    
+                      <section>
+						<h3>How can we use this as a <q>junk filter</q>?</h3>	
+                        <img src="fig/RASP/Figure_2.svg" style="height: 600px">
+                            <div class="column" style="float: center; width:  100%;">
+                                                                            <h3 style="font-size: 25px"><p>Also <b>fast</b> ($\sim$360$\times$ faster than Gaussian fitting methods)</p></h3></div>
+					</section> 
+                    
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-6.svg" style="height: 600px">
+
+					</section>
+                
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-5.svg" style="height: 600px">
+
+					</section>
+
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-4.svg" style="height: 600px">
+
+					</section>
+                  
+                     <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-3.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-2.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3_-1.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How do we practically define this boundary?</h3>	
+                        <img src="fig/RASP/Figure_3.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4_-5.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4_-4.svg" style="height: 600px">
+
+					</section>
+
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4_-3.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4_-2.svg" style="height: 600px">
+
+					</section>
+
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4_-1.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/Figure_4.svg" style="height: 600px">
+
+					</section>
+                    
+                    <section>
+						<h3>How well does it do on messy images?</h3>	
+                        <img src="fig/RASP/SI_4_1.svg" style="height: 600px">
+
+					</section>  
+                          
+                    <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-11.svg" style="height: 600px">
+
+					</section>   
+
+                     <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-10.svg" style="height: 600px">
+
+					</section>
+                          
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-9.svg" style="height: 600px">
+
+					</section>
+                          
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-8.svg" style="height: 600px">
+
+					</section>
+                          
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-7.svg" style="height: 600px">
+
+					</section>                           
+                
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-6.svg" style="height: 600px">
+
+					</section>                          
+                         
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-5.svg" style="height: 600px">
+
+					</section>            
+                          
+                      <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-4.svg" style="height: 600px">
+
+					</section>                          
+                         
+                       <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-3.svg" style="height: 600px">
+
+					</section>    
+                          
+                       <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-2.svg" style="height: 600px">
+
+					</section>        
+                          
+                       <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5_-1.svg" style="height: 600px">
+
+					</section> 
+                
+                        <section>
+						<h3>RASP enables correlation hunting across large data</h3>	
+                        <img src="fig/RASP/Figure_5.svg" style="height: 600px">
+
+					</section>                          
+                    
+                        <section data-auto-animate>
+						<h3>RASP enables us to do <b>more</b>, <b>more robustly</b></h3>	
+                            <div class="row">
+						<div class="column" style="float: middle; width:  100%;">
+                            <img src="fig/conclusion/Abstract_-1.svg" style="height:500px"></div>
+                                <div class="column" style="float: left; width:  50%;">
+                                    <h3 style="font-size: 35px; color: transparent"><p><br>Thanks to the Lee Lab, Bin Fu, Steven F. Lee </p>  </h3> </div>
+                            <div class="column" style="float: left; width:  50%;">
+                                <iframe data-src="about:blank"></iframe></div></div>
+					</section>                      
+                          
+                        <section data-auto-animate>
+						<h3>RASP enables us to do <b>more</b>, <b>more robustly</b></h3>	
+                            <div class="row">
+						<div class="column" style="float: middle; width:  100%;">
+                            <img src="fig/conclusion/Abstract.svg" style="height:500px"></div>
+                                <div class="column" style="float: left; width:  50%;">
+                                    <h3 style="font-size: 35px; color: transparent"><p><br>Thanks to the Lee Lab, Bin Fu, Steven F. Lee </p>  </h3> </div>
+                            <div class="column" style="float: left; width:  50%;">
+                                <iframe data-src="about:blank"></iframe></div></div>
+					</section>                      
+                    
+                        <section data-auto-animate>
+						<h3>RASP enables us to do <b>more</b>, <b>more robustly</b></h3>	
+                            <div class="row">
+						<div class="column" style="float: middle; width:  100%;">
+                            <img src="fig/conclusion/Abstract.svg" style="height:500px"></div>
+                                <div class="column" style="float: left; width:  50%;">
+                                    <h3 style="font-size: 35px; color: black"><p><br>Thanks to the Lee Lab, Bin Fu, Steven F. Lee </p>  </h3> </div>
+                            <div class="column" style="float: left; width:  50%;">
+                                <iframe data-src="vid/Lab_Logo_Superres.gif"></iframe></div></div>
+					</section>                      
+
+                </section>
+
+                    
+                    
+    <section>
+                    <section>
+						<h3>SI: How good is the fast intensity analysis?</h3>	
+							<img src="fig/si/Figure_S10.svg" style="height: 650px">
+					</section>
+
+                    <section>
+						<h3>SI: What are our termination criteria for the colocalisation analysis?</h3>	
+							<img src="fig/si/Figure_S9.svg" style="height: 550px">
+					</section>
+        
+                    <section>
+						<h3>SI: RASP + ThunderSTORM</h3>	
+							<img src="fig/si/Figure_S5.svg" style="height: 550px">
+					</section>
+        
+                    <section>
+						<h3>SI: RASP + PeakFit</h3>	
+							<img src="fig/si/Figure_S6.svg" style="height: 550px">
+					</section>
+         
+                     <section>
+						<h3>SI: How did we pick our analysis parameters?</h3>	
+							<img src="fig/si/Figure_S8.svg" style="height: 550px">
+					</section>  
+        
+                     <section>
+						<h3>SI: An example of some excluded/accepted puncta</h3>	
+							<img src="fig/si/Figure_S4.svg" style="height: 550px">
+					</section>    
+        
+                     <section>
+						<h3>SI: How do we reject out-of-focus planes?</h3>	
+							<img src="fig/si/Figure_S7.svg" style="height: 550px">
+					</section>  
+                </section>
+
+
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/math/math.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			Reveal.initialize({
+				hash: true,
+				slideNumber: false,
+				controls: false,
+				transition: 'fade',
+				navigationMode: "linear",
+                width: 1280,
+                height: 800,
+
+                // Factor of the display size that should remain empty around
+                // the content
+                margin: 0.01,
+                
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+		</script>
+	</body>
+</html>
+
