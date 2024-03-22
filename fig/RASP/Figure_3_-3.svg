@@ -3,8 +3,8 @@
 
 <svg
    width="168.02043mm"
-   height="87.050552mm"
-   viewBox="0 0 168.02043 87.050552"
+   height="47.060398mm"
+   viewBox="0 0 168.02043 47.060398"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -28,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.8381117"
-     inkscape:cx="180.62015"
-     inkscape:cy="213.53436"
+     inkscape:zoom="0.91905585"
+     inkscape:cx="223.055"
+     inkscape:cy="182.25225"
      inkscape:window-width="1866"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -44,10 +44,10 @@
      fit-margin-right="0"
      fit-margin-bottom="0" /><defs
      id="defs2"><rect
-       x="390.14437"
+       x="390.14438"
        y="215.651"
-       width="0.54403659"
-       height="47.367311"
+       width="0.54403657"
+       height="47.36731"
        id="rect5674" /><linearGradient
        id="linearGradient98481"
        inkscape:swatch="solid"><stop
@@ -129,7 +129,7 @@
        xlink:href="#linearGradient68840"
        id="linearGradient73278"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2.1668919,0,0,1,-15.765592,-0.77557995)"
+       gradientTransform="matrix(2.1668919,0,0,1,-15.765592,-0.77557994)"
        x1="55.378246"
        y1="26.192413"
        x2="63.797234"
@@ -7897,4 +7897,4 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,0.94696458,2.2902156)"
        id="text5672"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect5674)" /></g></svg>
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5674);fill:#000000;fill-opacity:1;stroke:none" /></g></svg>

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="168.09721mm"
-   height="87.022949mm"
-   viewBox="0 0 168.09721 87.022949"
+   width="132.49713mm"
+   height="40.051674mm"
+   viewBox="0 0 132.49713 40.051674"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -28,11 +28,11 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="285.67115"
-     inkscape:cy="159.45259"
-     inkscape:window-width="1866"
-     inkscape:window-height="1016"
+     inkscape:zoom="1.9999999"
+     inkscape:cx="169.00001"
+     inkscape:cy="48.500002"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -43,7 +43,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"><sodipodi:guide
-       position="103.33612,102.53419"
+       position="103.33597,55.562918"
        orientation="0,-1"
        id="guide30012"
        inkscape:locked="false" /></sodipodi:namedview><defs
@@ -311,7 +311,7 @@
        x2="164.59621"
        y2="78.785385"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.37835623,0,0,0.95084002,0.33994427,-50.878732)" /><linearGradient
+       gradientTransform="matrix(0.37835623,0,0,0.95084002,0.34009615,-50.878732)" /><linearGradient
        id="linearGradient47219"
        inkscape:swatch="solid"><stop
          style="stop-color:#000000;stop-opacity:1;"
@@ -335,7 +335,7 @@
        xlink:href="#linearGradient47219"
        id="linearGradient44412"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4386569,0,0,0.95066049,61.412716,-50.863719)"
+       gradientTransform="matrix(0.4386569,0,0,0.95066049,61.412868,-50.863719)"
        x1="2.7599974"
        y1="78.785385"
        x2="164.59621"
@@ -360,7 +360,7 @@
        xlink:href="#linearGradient43101"
        id="linearGradient45001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0200728,0.45466741,-4.0150759,-10.77232,99.342786,162.71521)"
+       gradientTransform="matrix(1.0200728,0.45466741,-4.0150759,-10.77232,99.342938,162.71521)"
        x1="72.209679"
        y1="16.100805"
        x2="82.322578"
@@ -385,7 +385,7 @@
        xlink:href="#linearGradient43101"
        id="linearGradient45431"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.36907939,0.87317422,8.5717748,-3.4194907,13.073494,23.455322)"
+       gradientTransform="matrix(-0.36907939,0.87317422,8.5717748,-3.4194907,13.073646,23.455322)"
        x1="72.209679"
        y1="16.100805"
        x2="82.322578"
@@ -398,7 +398,7 @@
        x2="159.39954"
        y2="24.227982"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0368187,0,0,1,-33.324004,-3.2610716)" /><linearGradient
+       gradientTransform="matrix(1.0368187,0,0,1,-33.323852,-3.2610716)" /><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient46160"
        id="linearGradient46266"
@@ -407,7 +407,7 @@
        y1="24.227982"
        x2="159.39954"
        y2="24.227982"
-       gradientTransform="matrix(-0.00499585,-1.1750689,0.99221028,-0.00591655,95.577845,208.2779)" /><marker
+       gradientTransform="matrix(-0.00499585,-1.1750689,0.99221028,-0.00591655,95.577997,208.2779)" /><marker
        style="overflow:visible"
        id="marker34236-8"
        refX="0"
@@ -559,7 +559,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.2464508,-3.444013)"><image
+     transform="translate(-1.2466027,-3.444013)"><image
        width="37.425999"
        height="33.187"
        preserveAspectRatio="none"
@@ -603,18 +603,18 @@
          x="122.64935"
          y="38.223232">Integrated gradient</tspan></text><text
        xml:space="preserve"
-       style="font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.264583;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#00b900;stroke:none;stroke-width:0.264583;stroke-opacity:1;paint-order:markers fill stroke;fill-opacity:1"
        x="50.793278"
        y="8.3165998"
        id="text5378-8-9"
        transform="rotate(0.22177918)"><tspan
          sodipodi:role="line"
          id="tspan5376-7-1"
-         style="fill:#008000;stroke:none;stroke-width:0.264583"
+         style="fill:#00b900;stroke:none;stroke-width:0.264583;font-weight:bold;fill-opacity:1"
          x="50.793278"
          y="8.3165998">True Positive</tspan><tspan
          sodipodi:role="line"
-         style="fill:#008000;stroke:none;stroke-width:0.264583"
+         style="fill:#00b900;stroke:none;stroke-width:0.264583;font-weight:bold;fill-opacity:1"
          x="50.793278"
          y="10.962438"
          id="tspan14982">from 1+2+3</tspan></text><text
@@ -626,11 +626,11 @@
        transform="rotate(0.22177918)"><tspan
          sodipodi:role="line"
          id="tspan5376-7-1-7"
-         style="fill:#ff0000;stroke:none;stroke-width:0.264583"
+         style="fill:#ff0000;stroke:none;stroke-width:0.264583;font-weight:bold"
          x="51.374828"
          y="27.218622">False Positive</tspan><tspan
          sodipodi:role="line"
-         style="fill:#ff0000;stroke:none;stroke-width:0.264583"
+         style="fill:#ff0000;stroke:none;stroke-width:0.264583;font-weight:bold"
          x="51.374828"
          y="29.86446"
          id="tspan14984">from 2+3</tspan></text><rect
@@ -691,7 +691,7 @@
        style="fill:#ff0000;stroke:url(#linearGradient45431);stroke-width:0.214889;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker43143-8-4);paint-order:markers fill stroke"
        d="m 113.40907,35.848847 18.3191,0.03344"
        id="path43097-0-7" /><circle
-       style="fill:#008000;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:#00b900;stroke:none;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;fill-opacity:1"
        id="path46076"
        cx="125.51704"
        cy="28.98872"
@@ -725,17 +725,17 @@
        id="text46956"><tspan
          sodipodi:role="line"
          id="tspan46954"
-         style="fill:#ff0000;stroke-width:0.264583"
+         style="fill:#ff0000;stroke-width:0.264583;font-weight:bold"
          x="121.90026"
          y="14.011664">False Positive</tspan></text><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#008000;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#00b900;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;fill-opacity:1"
        x="125.96702"
        y="25.634823"
        id="text46956-2"><tspan
          sodipodi:role="line"
          id="tspan46954-1"
-         style="fill:#008000;stroke-width:0.264583"
+         style="fill:#00b900;stroke-width:0.264583;fill-opacity:1;font-weight:bold"
          x="125.96702"
          y="25.634823">True Positive</tspan></text><text
        xml:space="preserve"
