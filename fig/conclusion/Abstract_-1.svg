@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="5.4194107in"
+   width="4.9178591in"
    height="1.4492788in"
-   viewBox="0 0 137.65303 36.811682"
+   viewBox="0 0 124.91362 36.811682"
    version="1.1"
    id="svg2454"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -30,8 +30,8 @@
      showgrid="false"
      showguides="false"
      inkscape:zoom="1.104894"
-     inkscape:cx="249.79772"
-     inkscape:cy="14.028495"
+     inkscape:cx="88.696291"
+     inkscape:cy="9.5031741"
      inkscape:window-width="1866"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -72,7 +72,7 @@
        xlink:href="#linearGradient43101"
        id="linearGradient45001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0200728,0.45466741,-4.0150759,-10.77232,1.1834775,162.2749)"
+       gradientTransform="matrix(1.0200728,0.45466741,-4.0150759,-10.77232,9.8952439,162.2749)"
        x1="72.209679"
        y1="16.100805"
        x2="82.322578"
@@ -109,7 +109,7 @@
        xlink:href="#linearGradient43101"
        id="linearGradient45431"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-0.34174964,0.91414466,7.9370484,-3.5799376,-77.563016,22.431948)"
+       gradientTransform="matrix(-0.34174964,0.91414466,7.9370484,-3.5799376,-68.85125,22.431948)"
        x1="72.209679"
        y1="16.100805"
        x2="82.322578"
@@ -142,7 +142,7 @@
        x2="159.39954"
        y2="24.227982"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0368187,0,0,1,-132.77444,-3.7013871)" />
+       gradientTransform="matrix(1.0368187,0,0,1,-124.06267,-3.7013871)" />
     <linearGradient
        id="linearGradient46160"
        inkscape:swatch="solid">
@@ -160,13 +160,13 @@
        y1="24.227982"
        x2="159.39954"
        y2="24.227982"
-       gradientTransform="matrix(-0.00499585,-1.1750689,0.99221028,-0.00591655,-3.8725835,207.83759)" />
+       gradientTransform="matrix(-0.00499585,-1.1750689,0.99221028,-0.00591655,4.8391829,207.83759)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient40648"
        id="linearGradient135473"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6353036,0,0,1.6353036,-126.19447,-63.843044)"
+       gradientTransform="matrix(1.6353036,0,0,1.6353036,-117.4827,-63.843044)"
        x1="103.43134"
        y1="58.707096"
        x2="105.89421"
@@ -184,7 +184,7 @@
        xlink:href="#linearGradient40648"
        id="linearGradient16572"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6353036,0,0,1.6353036,-166.08249,-63.838852)"
+       gradientTransform="matrix(1.6353036,0,0,1.6353036,-157.37072,-63.838852)"
        x1="103.43134"
        y1="58.707096"
        x2="105.89421"
@@ -194,7 +194,7 @@
        xlink:href="#linearGradient40648"
        id="linearGradient16617"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.6353036,0,0,1.6353036,-166.37876,-79.581675)"
+       gradientTransform="matrix(1.6353036,0,0,1.6353036,-157.66699,-79.581675)"
        x1="103.43134"
        y1="58.707096"
        x2="105.89421"
@@ -204,7 +204,7 @@
        xlink:href="#linearGradient40648"
        id="linearGradient31594"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.74855098,0,0,0.74855098,-42.785162,-18.664447)"
+       gradientTransform="matrix(0.74855098,0,0,0.74855098,-34.073396,-18.664447)"
        x1="50.474987"
        y1="51.753403"
        x2="53.172138"
@@ -214,7 +214,7 @@
        xlink:href="#linearGradient40648"
        id="linearGradient31519"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.74855098,0,0,0.74855098,-47.799062,-17.54853)"
+       gradientTransform="matrix(0.74855098,0,0,0.74855098,-39.087296,-17.54853)"
        x1="50.474987"
        y1="51.753403"
        x2="53.172138"
@@ -287,7 +287,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(29.624777,-1.3691665)">
+     transform="translate(20.913011,-1.3691665)">
     <g
        id="g8262">
       <g
