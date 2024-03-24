@@ -27,11 +27,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="211.42492"
-     inkscape:cy="89.449006"
-     inkscape:window-width="1866"
-     inkscape:window-height="1016"
+     inkscape:zoom="0.82750451"
+     inkscape:cx="58.609953"
+     inkscape:cy="13.897205"
+     inkscape:window-width="1388"
+     inkscape:window-height="836"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2096,7 +2096,7 @@
            style="font-size:65%;baseline-shift:sub"
            id="tspan47" /></tspan></text>
     <rect
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.197115;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.197115;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;opacity:0"
        id="rect23108-0"
        width="9.6764574"
        height="9.6294136"
@@ -2110,10 +2110,69 @@
        id="text5"><tspan
          x="142.40469"
          y="9.7990971"
-         id="tspan62740"><tspan
+         id="tspan2500"><tspan
            dx="0 1.3063822"
-           id="tspan62738">σ
+           id="tspan2498">σ
 </tspan></tspan></text>
+    <g
+       id="g58240"
+       transform="translate(-79.375004)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.02552px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.25319;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="155.82487"
+         y="19.772718"
+         id="text8446-7-7-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan8444-4-4-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.02552px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke:none;stroke-width:0.25319"
+           x="155.82487"
+           y="19.772718">=</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         x="161.32486"
+         y="11.241604"
+         id="text10214"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+           x="161.32486"
+           y="11.241604"
+           id="tspan10216">Colocalization </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0"
+           x="161.32486"
+           y="13.887442"
+           id="tspan22536">likelihood</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.188927;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 157.57751,19.028304 h 9.97873"
+         id="path11545" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-dasharray:0.333124, 0.333124;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         x="162.45853"
+         y="17.43766"
+         id="text52"><tspan
+           sodipodi:role="line"
+           id="tspan52"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.264583"
+           x="162.45853"
+           y="17.43766">ICR<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';baseline-shift:sub"
+   id="tspan53">puncta</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#4dbeee;fill-opacity:1;stroke-width:0.198437;paint-order:markers fill stroke"
+         x="162.18958"
+         y="21.298958"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ff00ff;stroke-width:0.198437"
+           x="162.48361"
+           y="21.298958">E(ratio) </tspan></text>
+    </g>
     <rect
        style="fill:#000000;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect24839-0-4-8"
@@ -2308,6 +2367,24 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
          x="17.085722"
          y="2.673142">Correlation analysis</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.396301;stroke-dasharray:0.396301, 0.396301;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect11126-5"
+       width="32.365009"
+       height="1.3306452"
+       x="3.2658634"
+       y="25.624031" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       x="19.440788"
+       y="27.282917"
+       id="text11130-3"><tspan
+         sodipodi:role="line"
+         id="tspan11128-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.264583"
+         x="19.440788"
+         y="27.282917">Error bound calculation</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke:none;stroke-width:0.264583;stroke-dasharray:0.264583, 0.264583;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
@@ -2403,7 +2480,7 @@
        transform="matrix(0,-1.0237446,0.97680614,0,0,0)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.198437;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.198437;paint-order:markers fill stroke;opacity:0"
        x="54.094025"
        y="42.361301"
        id="text2"
@@ -2420,7 +2497,8 @@
          id="tspan55">converges</tspan></text>
     <g
        id="g4"
-       transform="translate(-71.302663,23.556615)">
+       transform="translate(-71.302663,23.556615)"
+       style="opacity:0">
       <text
          xml:space="preserve"
          style="font-size:2.11667px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.198437;paint-order:markers fill stroke"
@@ -2546,7 +2624,7 @@
          x="8.2537508"
          y="48.30838">ICR = 3/6</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.192382;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-9-3-0);paint-order:markers fill stroke"
+       style="fill:none;stroke:#000000;stroke-width:0.192382;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-9-3-0);paint-order:markers fill stroke;opacity:0"
        d="m 49.308682,39.02531 h 10.03961"
        id="path44" />
     <ellipse
@@ -2719,7 +2797,7 @@
        ry="0.60674059" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;opacity:0"
        x="47.824139"
        y="39.137974"
        id="text56"><tspan
@@ -2729,7 +2807,8 @@
          x="47.824139"
          y="39.137974">...</tspan></text>
     <g
-       id="g58261">
+       id="g58261"
+       style="opacity:0">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.198437;paint-order:markers fill stroke"
